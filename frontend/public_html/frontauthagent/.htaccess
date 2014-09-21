@@ -1,0 +1,3 @@
+# Only necessary if the default permisson is restrictive.
+order deny,allow
+allow from all
